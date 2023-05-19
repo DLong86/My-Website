@@ -1,24 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## My Website
 
-## Getting Started
+Basically a site to show projects I've made and skills I am competent with using.
 
-First, run the development server:
+# Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Home Page with navigation to other links.
+- About page (\* self-indulgent page).
+- A preview page that shows a few projects I've made with details about them.
+- And a contact page with links so that people can get hold of me.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.JS: A React framework that enables you to create full-stack web applications by extending the latest React features.
+- Typescript: A typed superset of Javascript that compiles to plain Javascript.
+- Tailwind.CSS: A utility-first CSS framework for quickly building custom user interfaces.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
+## Acknowledgments
 
 To learn more about Next.js, take a look at the following resources:
 
